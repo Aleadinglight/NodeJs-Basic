@@ -1,2 +1,2 @@
 # Node.js-Basic
-Node.js practicing.
+Node.js server practicing.
